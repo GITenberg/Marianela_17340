@@ -1,0 +1,37 @@
+_repo: Marianela_17340
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: "Marianela is a Spanish novel written by Benito Pérez Galdós in 1878.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17340'
+  wikidata: Q6762098
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction'
+title: Marianela
+url: http://www.gutenberg.org/ebooks/17340
+wikipedia:
+- https://en.wikipedia.org/wiki/Marianela_(novel)
+- https://pt.wikipedia.org/wiki/Marianela
+- https://es.wikipedia.org/wiki/Marianela
+- https://es.wikisource.org/wiki/Marianela
