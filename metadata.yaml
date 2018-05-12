@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Benito_Pérez_Galdós
 description: "Marianela is a Spanish novel written by Benito Pérez Galdós in 1878.\n\
   \n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17340#Marianela
 gutenberg_issued: '2005-12-17'
 gutenberg_type: Text
 identifiers:
